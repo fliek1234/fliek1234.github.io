@@ -287,3 +287,8 @@ ul.movie-list > li.thumbnail .thumbnail-text {
     margin: 8px 0 8px;
 }
 
+.player {
+    width: 100%;
+    margin: 16px 0;
+    border-radius: 4px;
+}
